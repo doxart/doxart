@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Gökdeniz and I'm a android developer, from Türkiye</h2>
+<h2 align="left">Hi 👋!</h2>
 
 ###
 
